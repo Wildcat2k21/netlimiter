@@ -2,7 +2,7 @@
 
 Support sapparate edit for upload / download speed
 
-**create a script "netlimiter", and insert content from `netlimit` fallow repository**
+**create a script "netlimit", and insert content from `netlimit` fallow repository**
 
 ```bash
 nano /usr/local/bin/netlimit
