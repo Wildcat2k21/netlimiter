@@ -2,15 +2,15 @@
 
 Support sapparate edit for upload / download speed
 
-**create a script "net-limiter.sh", and insert content from `net-limiter.sh` fallow repository**
+**create a script "net-limiter.sh", and insert content from `netlimit.sh` fallow repository**
 
 ```bash
-nano /usr/local/bin/net-limiter.sh
+nano /usr/local/bin/netlimit.sh
 ```
 
 **make it executable**
 ```bash
-chmod +x /usr/local/bin/net-limiter.sh
+chmod +x /usr/local/bin/netlimit.sh
 ```
 
 Done! How to use:
